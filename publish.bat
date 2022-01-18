@@ -1,0 +1,1 @@
+scp -r C:\Projetos\AspNetCore\CheckService\bin\Release\net5.0\linux-x64\publish root@178.18.251.202:/var/www/check.mobilesoluctions.tk/web
